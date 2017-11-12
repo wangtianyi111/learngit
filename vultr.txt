@@ -1,0 +1,29 @@
+﻿===================================================
+
+ 用户 [wty] 的配置信息：
+
+ I  P       : 104.238.133.206
+ 端口       : 8989
+ 密码       : 123456
+ 加密       : aes-128-ctr
+ 协议       : auth_sha1_v4_compatible
+ 混淆       : tls1.2_ticket_auth_compatible
+ 设备数限制 : 0(无限)
+ 单线程限速 : 0 KB/S
+ 用户总限速 : 0 KB/S
+ 禁止的端口 : 无限制
+
+ 已使用流量 : 上传: 0 B + 下载: 0 B = 0 B
+ 剩余的流量 : 819.21 TB
+ 用户总流量 : 819.21 TB
+ SS    链接 : ss://YWVzLTEyOC1jdHI6MTIzNDU2QDEwNC4yMzguMTMzLjIwNjo4OTg5
+ SS  二维码 : http://doub.pw/qr/qr.php?text=ss://YWVzLTEyOC1jdHI6MTIzNDU2QDEwNC4yMzguM                                                                                                           TMzLjIwNjo4OTg5
+ SSR   链接 : ssr://MTA0LjIzOC4xMzMuMjA2Ojg5ODk6YXV0aF9zaGExX3Y0OmFlcy0xMjgtY3RyOnRscz                                                                                                           EuMl90aWNrZXRfYXV0aDpNVEl6TkRVMg
+ SSR 二维码 : http://doub.pw/qr/qr.php?text=ssr://MTA0LjIzOC4xMzMuMjA2Ojg5ODk6YXV0aF9z                                                                                                           aGExX3Y0OmFlcy0xMjgtY3RyOnRsczEuMl90aWNrZXRfYXV0aDpNVEl6TkRVMg
+
+  提示:
+ 在浏览器中，打开二维码链接，就可以看到二维码图片。
+ 协议和混淆后面的[ _compatible ]，指的是 兼容原版协议/混淆。
+
+===================================================
+[root@wty ~]#
