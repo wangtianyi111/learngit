@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resourceCollection</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>3E072C6A-9D0C-4809-B757-00CDEFBACD59</string>
+			<key>resourceId</key>
+			<string>478AABD3-A36A-49D5-AFA6-D995B71C933F</string>
+			<key>type</key>
+			<string>RemoteApp</string>
+			<key>displayName</key>
+			<string>Internet Explorer</string>
+			<key>folders</key>
+			<array/>
+			<key>iconName</key>
+			<string>mockThumbnailInternetExplorer</string>
+			<key>connectionSettings</key>
+			<string>full address:s:twhv-ws2k12r2</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>B35FBEC4-7313-4BD1-B076-262D0A2666E3</string>
+			<key>resourceId</key>
+			<string>63741F43-C5C1-4AF5-8588-6A194EB52049</string>
+			<key>type</key>
+			<string>RemoteApp</string>
+			<key>displayName</key>
+			<string>Microsoft Excel</string>
+			<key>folders</key>
+			<array>
+				<string>Productivity</string>
+			</array>
+			<key>iconName</key>
+			<string>mockThumbnailExcel</string>
+			<key>connectionSettings</key>
+			<string>full address:s:twhv-ws2k12r2</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>33F8B2E8-9C44-4109-8863-1CC9056B8E3B</string>
+			<key>resourceId</key>
+			<string>334FB4D6-15D2-4EB2-9358-A4F96582E4CC</string>
+			<key>type</key>
+			<string>RemoteApp</string>
+			<key>displayName</key>
+			<string>Microsoft Word</string>
+			<key>folders</key>
+			<array>
+				<string>Productivity</string>
+			</array>
+			<key>iconName</key>
+			<string>mockThumbnailWord</string>
+			<key>connectionSettings</key>
+			<string>full address:s:twhv-ws2k12r2</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>0786DE25-662A-43B9-AC88-3A195F18F5C1</string>
+			<key>resourceId</key>
+			<string>FD734212-1E72-4033-BB41-646E07BCED6D</string>
+			<key>type</key>
+			<string>RemoteApp</string>
+			<key>displayName</key>
+			<string>Microsoft Powerpoint</string>
+			<key>folders</key>
+			<array>
+				<string>Productivity</string>
+			</array>
+			<key>iconName</key>
+			<string>mockThumbnailPowerpoint</string>
+			<key>connectionSettings</key>
+			<string>full address:s:twhv-ws2k12r2</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>C41B3C8C-A8BC-47A2-8672-C16A2674844A</string>
+			<key>resourceId</key>
+			<string>F5E7CABA-6384-4CBA-B8FB-98E919A8ABB1</string>
+			<key>type</key>
+			<string>RemoteDesktop</string>
+			<key>displayName</key>
+			<string>Windows Server 2012 R2</string>
+			<key>folders</key>
+			<array>
+				<string>Servers</string>
+			</array>
+			<key>connectionSettings</key>
+			<string>full address:s:twhv-ws2k12r2</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>7C331C65-071A-4BEE-B27F-A0C9823F2C91</string>
+			<key>resourceId</key>
+			<string>90C5F615-5DE2-4AE7-AA40-204E217CCB60</string>
+			<key>type</key>
+			<string>RemoteDesktop</string>
+			<key>displayName</key>
+			<string>Windows 10</string>
+			<key>folders</key>
+			<array>
+				<string>Clients</string>
+			</array>
+			<key>connectionSettings</key>
+			<string>full address:s:twhv-win10</string>
+		</dict>
+	</array>
+	<key>workspaceCollection</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>E9E6B5E6-0A60-47BC-B604-83A7BA8310BE</string>
+			<key>url</key>
+			<string>example.com/rdweb/feed/webfeed.aspx</string>
+			<key>publisher</key>
+			<string>Example Publisher</string>
+		</dict>
+	</array>
+	<key>resourceWorkspaceAssociations</key>
+	<array>
+		<dict>
+			<key>workspaceId</key>
+			<string>E9E6B5E6-0A60-47BC-B604-83A7BA8310BE</string>
+			<key>resourceId</key>
+			<string>3E072C6A-9D0C-4809-B757-00CDEFBACD59</string>
+		</dict>
+		<dict>
+			<key>workspaceId</key>
+			<string>E9E6B5E6-0A60-47BC-B604-83A7BA8310BE</string>
+			<key>resourceId</key>
+			<string>B35FBEC4-7313-4BD1-B076-262D0A2666E3</string>
+		</dict>
+		<dict>
+			<key>workspaceId</key>
+			<string>E9E6B5E6-0A60-47BC-B604-83A7BA8310BE</string>
+			<key>resourceId</key>
+			<string>33F8B2E8-9C44-4109-8863-1CC9056B8E3B</string>
+		</dict>
+		<dict>
+			<key>workspaceId</key>
+			<string>E9E6B5E6-0A60-47BC-B604-83A7BA8310BE</string>
+			<key>resourceId</key>
+			<string>0786DE25-662A-43B9-AC88-3A195F18F5C1</string>
+		</dict>
+		<dict>
+			<key>workspaceId</key>
+			<string>E9E6B5E6-0A60-47BC-B604-83A7BA8310BE</string>
+			<key>resourceId</key>
+			<string>C41B3C8C-A8BC-47A2-8672-C16A2674844A</string>
+		</dict>
+		<dict>
+			<key>workspaceId</key>
+			<string>E9E6B5E6-0A60-47BC-B604-83A7BA8310BE</string>
+			<key>resourceId</key>
+			<string>7C331C65-071A-4BEE-B27F-A0C9823F2C91</string>
+		</dict>
+	</array>
+</dict>
+</plist>
