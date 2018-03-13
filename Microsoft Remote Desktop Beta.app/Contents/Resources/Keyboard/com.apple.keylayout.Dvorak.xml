@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!-- no special case here, X C V is handled on ClipboardActionTransformations.xml -->
-<transformations include="DefaultTransformations.xml">
-
-</transformations>
